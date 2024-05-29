@@ -7,5 +7,5 @@ Um relógio flip desenvolvido com HTML, CSS e JavaScript.
 
 ## Demonstração
 
-Veja o relógio em ação [https://hellen-moura.github.io/flip-clock/]
+Veja o relógio em ação [https://hellen-silvaa.github.io/flip-clock/]
 
